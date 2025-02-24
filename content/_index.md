@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research focus on developing computational methods for biomarker discovery and cell type classification with single cell genomics data for advancing our understanding of cellular phenotypes in health and disease. 
+        
+        My work is an integral part of the Cell Knolwedge Network project, where data scientists, software engineers, and biomedical ontologists work together to accurately represent the cutting-edge single cell genomics data and biological entities, and to disseminate reliable information/knowledge about cells - the foundamental unit of life - using knowledge graphs and sementic web technologies, linking data across databases and knowledgebases.
         
         Please reach out to collaborate 😃
     design:
